@@ -1,3 +1,5 @@
+### This project has moved to https://github.com/JuliaPolyhedra/XPORTA.jl
+
 # PORTA.jl (ALPHA)
 
 *A julia wrapper for the [PORTA](http://porta.zib.de/) polyhedral analysis software.*
